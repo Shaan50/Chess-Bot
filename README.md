@@ -2,7 +2,7 @@
 
 A Python-based **chess automation bot** that reads the board, calculates the best move using Stockfish, and moves your mouse to perform the move. Designed for personal practice and offline play.
 
-> **Note:** Do not use this bot to cheat in online multiplayer games.
+> **Note:** This bot should not be used to cheat in online tournaments or against other players in rated games. It is intended for educational purposes, personal practice, and friendly games only.
 
 ---
 
