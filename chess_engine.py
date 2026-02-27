@@ -26,7 +26,7 @@ def run(website,highlight,bongcloud,fen):
 
     # Get path relative to the script
     base_dir = os.path.dirname(__file__)
-    stockfish_path = os.path.join(base_dir, "stockfish", "stockfish_15_x64_avx2.exe")
+    stockfish_path = os.path.join(base_dir, "stockfish_15_win_x64_avx2", "stockfish_15_x64_avx2.exe")
     stockfish.update_engine_parameters({"Threads":10,"Hash":2048})
 
     position=fen
